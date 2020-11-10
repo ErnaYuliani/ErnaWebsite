@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url(./gambar16.jpg);
+    background-color: rgb(240, 149, 149);
+    background-size: initial;
+    height: 1000px;
+    text-align: center;
+    margin-top: -120px;
+}
+.jumbotron .display-4 {
+    background-color: white;
+    color: black;
+    margin-top: 400px;
+    font-weight: bold;
+    letter-spacing: 0.2cm;
+}

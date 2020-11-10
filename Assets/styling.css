@@ -1,0 +1,78 @@
+#header {
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background-color: white;
+}
+#image {
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+#progress-bar {
+    background: white;
+    height: 10px;
+    width: 100px;
+}
+#progress {
+    background: black;
+    height: 10px;
+    width: 80px;
+}
+#progress1 {
+    background: black;
+    height: 10px;
+    width: 90px;
+}
+#progress2 {
+    background: black;
+    height: 10px;
+    width: 90px;
+}
+#progress3 {
+    background: black;
+    height: 10px;
+    width: 90px;
+}
+#nama {
+    font-weight: bold;
+    letter-spacing: 0.5cm;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#kata {
+    letter-spacing: 0.2cm;
+}
+#garis {
+    width: 385px;
+    height: 5px;
+    background-color: black;
+}
+#experience {
+    background-color: white;
+    width: 870px;
+    margin: 15px;
+}
+#exp1 {
+    font-weight: bold;
+}
+#exp2 {
+    font-weight: bold;
+}
+#exp3 {
+    font-weight: bold;
+}
+#pendidikan {
+    background-color: white;
+    width: 870px;
+    margin: 15px;  
+}
+#contact {
+    background-color: white;
+    margin: 15px;
+}
+#skill {
+    background-color:white;
+    margin: 15px;
+}
